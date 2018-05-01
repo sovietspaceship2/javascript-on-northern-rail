@@ -1,5 +1,5 @@
 {
-  "name": "on-northern-rail",
+  "name": "javascript-on-northern-rail",
   "version": "0.0.1",
   "description": "Northern-powered async library",
   "main": "lib/index.js",
