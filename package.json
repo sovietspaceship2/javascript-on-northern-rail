@@ -1,0 +1,26 @@
+{
+  "name": "on-northern-rail",
+  "version": "0.0.1",
+  "description": "Northern-powered async library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --recursive test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovietspaceship/javascript-on-northern-rail.git"
+  },
+  "keywords": [
+    "memes",
+    "async"
+  ],
+  "author": "Rei <https://github.com/sovietspaceship>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sovietspaceship/javascript-on-northern-rail/issues"
+  },
+  "homepage": "https://github.com/sovietspaceship/javascript-on-northern-rail#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
